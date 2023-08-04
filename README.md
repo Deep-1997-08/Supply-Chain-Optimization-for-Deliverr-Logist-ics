@@ -1,23 +1,18 @@
-# Global Supply Chain Strategy Development and Execution
+# Supply Chain Optimization for Deliverr Logistics
 
-## Overview
-This project repository contains the strategies and implementation details of a robust global supply chain management system designed to enhance bottom-line performance by 15%. Our approach leverages innovative data analysis techniques and cross-functional collaboration to streamline operations.
+## Project Overview
+This repository is dedicated to the supply chain optimization strategies implemented for Deliverr Logistics, which significantly improved lead time reduction, on-time delivery rates, order fulfillment rates, and established a proficient Inventory Management System.
 
-## Objectives
-- Optimize global supply chain processes through strategic analysis and data-driven solutions.
-- Achieve real-time visibility into supply chain operations with Tableau dashboards.
-- Automate processes using Python scripts to decrease lead times and boost on-time deliveries.
-- Facilitate a 30% cost reduction through effective data mining and value creation.
+## Project Objectives
+- Streamline Deliverr Logistics' supply chain strategy for enhanced efficiency and reliability.
+- Implement robust Key Performance Indicators (KPIs) for better inventory tracking and supply chain visibility.
+- Engage in proactive partnership with internal stakeholders to drive supply chain improvements.
 
-## Tools and Technologies
-- **SAP**: Utilized for comprehensive supply chain management and data analysis.
-- **Advanced Excel**: Employed for data manipulation and financial modeling.
-- **Tableau**: Created interactive dashboards for real-time supply chain visibility.
-- **SQL**: Leveraged for data mining and extracting actionable insights.
-- **Python**: Scripted automation solutions to improve supply chain efficiency.
+## Tools and Technologies Used
+- **Advanced Excel**: For complex data analysis and inventory management.
+- **Tableau**: For designing insightful KPI dashboards for real-time tracking across the supply chain.
 
-## Outcomes
-- 15% improvement in bottom-line performance attributable to optimized supply chain strategies.
-- Reduction of lead times by 20% and a 10% increase in on-time deliveries, enhancing customer satisfaction.
-- Cross-functional team leadership that harnessed SQL and Tableau to realize a 30% cost reduction opportunity.
-
+## Key Achievements
+- Successfully reduced lead times by 20%, substantially enhancing the pace of supply chain operations.
+- Achieved a 15% increase in on-time delivery rate, leading to higher customer satisfaction.
+- Developed an Inventory Management System that led to a more streamlined, efficient supply chain workflow.
